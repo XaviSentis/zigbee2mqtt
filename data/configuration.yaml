@@ -1,0 +1,102 @@
+frontend: true
+homeassistant:
+  discovery_topic: homeassistant
+  legacy_entity_attributes: true
+  legacy_triggers: true
+permit_join: false
+mqtt:
+  base_topic: zigbee2mqttp5
+  server: mqtt://192.168.1.10:1883
+  version: 4
+  include_device_information: false
+  keepalive: 60
+  force_disable_retain: false
+serial:
+  port: /dev/ttyACM0
+  adapter: ember
+advanced:
+  pan_id: 47434
+  network_key:
+    - 159
+    - 82
+    - 214
+    - 178
+    - 19
+    - 232
+    - 236
+    - 225
+    - 28
+    - 100
+    - 6
+    - 3
+    - 101
+    - 75
+    - 122
+    - 22
+  channel: 25
+  transmit_power: 20
+  adapter_delay: 0
+  log_level: info
+  log_rotation: true
+  log_syslog:
+    app_name: Zigbee2MQTT
+    eol: /n
+    host: localhost
+    localhost: localhost
+    path: /dev/log
+    pid: process.pid
+    port: 123
+    protocol: tcp4
+    type: '5424'
+  log_output:
+    - file
+  cache_state: true
+  cache_state_persistent: true
+  cache_state_send_on_startup: true
+  output: json
+  legacy_api: false
+  legacy_availability_payload: false
+  homeassistant_legacy_entity_attributes: false
+device_options:
+  legacy: false
+availability: false
+ota:
+  ikea_ota_use_test_url: false
+external_converters:
+  - ext_TZ3000_6ygjfyll.js
+  - ext_TZ3000_kjfzuycl.js
+  - ext_TZE200_vvmbj46n.js
+  - ext_TZE204_7gclukjs.js
+  - ext_TZE204_ijxvkhd0.js
+  - ext_TZ3000_mgusv51k.js
+devices: devices.yaml
+groups: groups.yaml
+blocklist:
+  - '0xa4c138e2d7224414'
+  - '0x70b3d52b6008e091'
+  - '0x70b3d52b6008e0da'
+  - '0x70b3d52b6008dc7f'
+  - '0x70b3d52b600aa8b7'
+  - '0xa4c138000a389b11'
+  - '0x70b3d52b6008e0b6'
+  - '0x70b3d52b6008e352'
+  - '0x70b3d52b6008df89'
+  - '0xa4c1382fb351ecd6'
+  - '0xa4c138d9a8b1df68'
+  - '0xa4c13813716ce87d'
+  - '0xa4c1386e4cb1b14e'
+  - '0xe0798dfffebb45db'
+  - '0xa4c138323c191be8'
+  - '0xa4c138b20105701f'
+  - '0xa4c138737bbb3534'
+  - '0xa4c13825bd35b8a0'
+  - '0xe0798dfffea7c2f8'
+  - '0xa4c138aaa6aacf02'
+  - '0xa4c138b3e537ff3d'
+  - '0xa4c13894cacc1c28'
+  - '0xa4c1387702433871'
+  - '0xa4c13829d4c64a8a'
+  - '0x70b3d52b6008e0fd'
+  - '0xa4c138403b29f0ad'
+  - '0x70b3d52b6008de00'
+  - '0xe0798dfffea7b9fb'

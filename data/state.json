@@ -1,0 +1,956 @@
+{
+    "0xa4c138819ff507a0": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 180
+    },
+    "0xa4c13848dee0df56": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 180
+    },
+    "0x847127fffef505ef": {
+        "temperature": 21.6,
+        "humidity": 66.7,
+        "battery": 89,
+        "voltage": 2700,
+        "linkquality": 196
+    },
+    "0xa4c138d0074782f0": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "state_l4": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 255
+    },
+    "0xa4c138c9637593a2": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "power_on_behavior": "off",
+        "indicator_mode": "off",
+        "linkquality": 236
+    },
+    "0xa4c138c1a905519a": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 204,
+        "countdown": 0
+    },
+    "0xa4c1381355f5a553": {
+        "state": "ON",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 212,
+        "countdown": 0
+    },
+    "0xa4c138ec3dfeecc0": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "state_l4": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 196
+    },
+    "0xa4c138630d36b188": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "state_l4": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 212
+    },
+    "0x00124b002a2f0f7f": {
+        "linkquality": 152,
+        "transmit_power": 20
+    },
+    "0x000474000084c6bb": {
+        "power": 347,
+        "power_apparent": 402,
+        "update": {
+            "state": "idle",
+            "installed_version": 5456895,
+            "latest_version": 5456895
+        },
+        "power_alarm_active_value": 2,
+        "power_alarm_active": true,
+        "power_alarm_enabled": 1,
+        "power_alarm_wh_threshold": 1,
+        "linkquality": 172
+    },
+    "0x00124b002c3a382f": {
+        "linkquality": 212,
+        "transmit_power": 20
+    },
+    "0xa4c13804ba593b8a": {
+        "illuminance_lux": 69,
+        "state": "none",
+        "presence": false,
+        "distance": 0,
+        "move_sensitivity": 2,
+        "presence_sensitivity": 2,
+        "radar_range": 5.5,
+        "presence_timeout": 0,
+        "linkquality": 76
+    },
+    "0xa4c13809f79ff5d2": {
+        "state": "OFF",
+        "brightness": 120,
+        "switch_type": "toggle",
+        "level_config": {
+            "on_off_transition_time": 50
+        },
+        "power_on_behavior": "off",
+        "linkquality": 200
+    },
+    "0x70b3d52b60058b7e": {
+        "state": "OFF",
+        "switch_type": "toggle",
+        "linkquality": 112,
+        "countdown": 0
+    },
+    "0xa4c13823f99ebb5b": {
+        "state": "OFF",
+        "brightness": 76,
+        "switch_type": "toggle",
+        "level_config": {
+            "on_off_transition_time": 50
+        },
+        "power_on_behavior": "off",
+        "linkquality": 132
+    },
+    "0xa4c138c045df66a8": {
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "power_on_behavior": "off",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "indicator_mode": "on/off",
+        "state_l1": "OFF",
+        "linkquality": 172
+    },
+    "0xa4c1386a92026776": {
+        "state": "OFF",
+        "brightness": 76,
+        "switch_type": "toggle",
+        "level_config": {
+            "on_off_transition_time": 50
+        },
+        "power_on_behavior": "off",
+        "linkquality": 124
+    },
+    "0xa4c1389db3a6f8eb": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 112,
+        "countdown": 0
+    },
+    "0xa4c13890abacd16d": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 128,
+        "countdown": 0
+    },
+    "0xa4c138eb2e0eb695": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 200
+    },
+    "0xa4c1389727944600": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 140,
+        "countdown": 0
+    },
+    "0x70b3d52b6005dcc4": {
+        "state": "ON",
+        "switch_type": "toggle",
+        "linkquality": 140,
+        "countdown": 0
+    },
+    "0xa4c1389cdab3f719": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 152
+    },
+    "0xa4c1380711855ab2": {
+        "state": "ON",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 152,
+        "countdown": 0
+    },
+    "0xa4c138e3ead22ee8": {
+        "state": "ON",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 172,
+        "countdown": 0
+    },
+    "0xa4c138c22c20e318": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 152,
+        "countdown": 0
+    },
+    "0x70b3d52b6006a663": {
+        "state": "ON",
+        "switch_type": "toggle",
+        "power_on_behavior": "on",
+        "linkquality": 132,
+        "countdown": 0
+    },
+    "0xa4c138e3fc4c23be": {
+        "state": "ON",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 160,
+        "countdown": 0
+    },
+    "0xa4c138ec6926ae67": {
+        "state": "ON",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 152
+    },
+    "0xa4c138565cb79cc2": {
+        "state": "OFF",
+        "brightness": 76,
+        "switch_type": "toggle",
+        "level_config": {
+            "on_off_transition_time": 50
+        },
+        "linkquality": 200,
+        "power_on_behavior": "off"
+    },
+    "0xa4c138ecb94b866e": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "linkquality": 64,
+        "power_on_behavior": "off"
+    },
+    "0xa4c1384c8583e838": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 160,
+        "countdown": 0
+    },
+    "0xa4c1384725c2ab0e": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "linkquality": 160
+    },
+    "0xa4c138e978397e7e": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 140,
+        "countdown": 0
+    },
+    "0x70b3d52b6005b220": {
+        "state": "OFF",
+        "switch_type": "toggle",
+        "linkquality": 212,
+        "power_on_behavior": "on",
+        "countdown": 0
+    },
+    "0xa4c1380d5e6b076d": {
+        "state": "ON",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 200,
+        "countdown": 0
+    },
+    "0xa4c1388cfc82f72e": {
+        "state": "ON",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 152,
+        "countdown": 0
+    },
+    "0xa4c13871e590551e": {
+        "state_l1": "OFF",
+        "linkquality": 152,
+        "switch_type": "toggle",
+        "power_on_behavior": "off",
+        "power_on_behavior_l1": "off",
+        "state_l2": "OFF"
+    },
+    "0xa4c138f7111d0a41": {
+        "state": "ON",
+        "linkquality": 152,
+        "switch_type": "toggle",
+        "power_on_behavior": "on"
+    },
+    "0xa4c138455583ebe2": {
+        "state": "move",
+        "presence": true,
+        "distance": 3.49,
+        "illuminance_lux": 76,
+        "move_sensitivity": 1,
+        "presence_sensitivity": 1,
+        "radar_range": 4.5,
+        "presence_timeout": 0,
+        "linkquality": 160
+    },
+    "0xa4c13848c3f307ca": {
+        "state": "none",
+        "presence": false,
+        "distance": 0,
+        "illuminance_lux": 143,
+        "move_sensitivity": 1,
+        "presence_sensitivity": 1,
+        "radar_range": 4.5,
+        "presence_timeout": 0,
+        "linkquality": 160
+    },
+    "0xa4c138449a32e586": {
+        "state": "ON",
+        "power_outage_memory": "on",
+        "indicator_mode": "off",
+        "child_lock": "UNLOCK",
+        "energy": 383.46,
+        "current": 0.028,
+        "voltage": 233,
+        "power": 0,
+        "linkquality": 160,
+        "update": {
+            "state": "idle",
+            "installed_version": 192,
+            "latest_version": 192
+        }
+    },
+    "0x00124b002a9a57c6": {
+        "linkquality": 136,
+        "transmit_power": 20
+    },
+    "0xa4c1387f99dbf375": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 200
+    },
+    "0xa4c13878588a9e61": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 200
+    },
+    "0xa4c138dcd890b238": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 200
+    },
+    "0xa4c13872caf7d99e": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 160
+    },
+    "0xa4c13872113e0037": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "linkquality": 200,
+        "indicator_mode": "on/off",
+        "power_on_behavior": "off"
+    },
+    "0xa4c13877992dece0": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "linkquality": 92,
+        "indicator_mode": "on/off"
+    },
+    "0xa4c13895d8725494": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "linkquality": 128,
+        "power_on_behavior": "off",
+        "indicator_mode": "on/off"
+    },
+    "0xa4c138e8b56f6657": {
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "indicator_mode": "on/off",
+        "state_l1": "OFF",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 160
+    },
+    "0xa4c138e479ffa5f5": {
+        "state": "move",
+        "presence": true,
+        "distance": 0,
+        "illuminance_lux": 111,
+        "move_sensitivity": 1,
+        "presence_sensitivity": 2,
+        "radar_range": 3.5,
+        "presence_timeout": 0,
+        "linkquality": 136
+    },
+    "0xa4c13873191de13d": {
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "power_on_behavior_l1": "off",
+        "indicator_mode": "on/off",
+        "state_l1": "OFF",
+        "power_on_behavior": "off",
+        "linkquality": 112
+    },
+    "0xa4c1389b56a53a95": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "linkquality": 136,
+        "power_on_behavior": "off",
+        "indicator_mode": "off"
+    },
+    "0xa4c1380adc3fd6dc": {
+        "state": "OFF",
+        "switch_type": "toggle",
+        "brightness": 216,
+        "level_config": {
+            "on_off_transition_time": 50
+        },
+        "linkquality": 148,
+        "power_on_behavior": "off"
+    },
+    "0x00124b002b485c51": {
+        "linkquality": 200,
+        "transmit_power": 20
+    },
+    "0x00158d00058a859a": {
+        "occupancy": false,
+        "illuminance": 626,
+        "illuminance_lux": 626,
+        "linkquality": 255,
+        "voltage": 3025,
+        "battery": 100,
+        "device_temperature": 21,
+        "power_outage_count": 50
+    },
+    "0x00158d00058a7d79": {
+        "occupancy": false,
+        "illuminance": 519,
+        "illuminance_lux": 519,
+        "linkquality": 204,
+        "voltage": 3065,
+        "battery": 100,
+        "device_temperature": 21,
+        "power_outage_count": 54
+    },
+    "0x00158d00056d52ad": {
+        "occupancy": false,
+        "illuminance": 1000,
+        "illuminance_lux": 1000,
+        "linkquality": 152,
+        "voltage": 3025,
+        "battery": 100,
+        "device_temperature": 28,
+        "power_outage_count": 181
+    },
+    "0x00158d00056a7a1e": {
+        "occupancy": false,
+        "illuminance": 616,
+        "illuminance_lux": 616,
+        "linkquality": 200,
+        "voltage": 3025,
+        "battery": 100,
+        "device_temperature": 33,
+        "power_outage_count": 113
+    },
+    "0x00158d00056a7d53": {
+        "occupancy": false,
+        "illuminance": 653,
+        "illuminance_lux": 653,
+        "linkquality": 164,
+        "voltage": 3055,
+        "battery": 100,
+        "device_temperature": 23,
+        "power_outage_count": 560
+    },
+    "0xa4c13845bc702734": {
+        "humidity": 65.36,
+        "temperature": 22.08,
+        "linkquality": 184,
+        "battery": 100,
+        "voltage": 3000
+    },
+    "0xa4c1386e742d7853": {
+        "battery": 84,
+        "voltage": 2900,
+        "temperature": 22.29,
+        "humidity": 64.34,
+        "linkquality": 200
+    },
+    "0xa4c138722c02449d": {
+        "temperature": 24.27,
+        "humidity": 52.53,
+        "linkquality": 144,
+        "battery": 72,
+        "voltage": 2800
+    },
+    "0xa4c138d7966879ba": {
+        "battery": 89,
+        "voltage": 2700,
+        "linkquality": 172,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false
+    },
+    "0xa4c1387e99093064": {
+        "temperature": 20.66,
+        "humidity": 67.27,
+        "linkquality": 200,
+        "battery": 100,
+        "voltage": 3000
+    },
+    "0xa4c138b9862aae6b": {
+        "battery": 80,
+        "voltage": 2700,
+        "linkquality": 196,
+        "contact": false,
+        "tamper": false,
+        "battery_low": false
+    },
+    "0xa4c138f4fbc1bdd4": {
+        "battery": 100,
+        "voltage": 3000,
+        "temperature": 23.11,
+        "humidity": 60.52,
+        "linkquality": 200
+    },
+    "0xa4c1385760bff91e": {
+        "battery": 1,
+        "voltage": 2500,
+        "linkquality": 180,
+        "contact": false,
+        "tamper": false,
+        "battery_low": false
+    },
+    "0xa4c138ba55ccb796": {
+        "battery": 3,
+        "voltage": 2500,
+        "linkquality": 200,
+        "contact": false,
+        "tamper": false,
+        "battery_low": false
+    },
+    "0xa4c1382e48444885": {
+        "humidity": 81.69,
+        "temperature": 22.26,
+        "linkquality": 200,
+        "battery": 31,
+        "voltage": 2600
+    },
+    "0xa4c138593590d8d5": {
+        "battery": 87,
+        "voltage": 2900,
+        "temperature": 21.48,
+        "humidity": 61.55,
+        "linkquality": 128
+    },
+    "0xa4c138bcc87f9735": {
+        "battery": 100,
+        "voltage": 3000,
+        "temperature": 20.73,
+        "humidity": 67.48,
+        "linkquality": 96
+    },
+    "0xa4c138a155d8b22f": {
+        "temperature": 21.68,
+        "humidity": 66.26,
+        "linkquality": 148,
+        "battery": 100,
+        "voltage": 3000
+    },
+    "0xa4c13877ae416c24": {
+        "battery": 80,
+        "voltage": 2700,
+        "linkquality": 200,
+        "contact": false,
+        "tamper": false,
+        "battery_low": false
+    },
+    "0x00158d0003636ae3": {
+        "linkquality": 80,
+        "voltage": 2972,
+        "battery": 81,
+        "power_outage_count": 5038
+    },
+    "0xa4c1382e197e4588": {
+        "battery": 1,
+        "voltage": 2500,
+        "linkquality": 212,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false
+    },
+    "0xa4c138e828dc43c0": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "power_on_behavior": "off",
+        "indicator_mode": "off",
+        "linkquality": 196
+    },
+    "0x00158d0003e7ff31": {
+        "voltage": 3022,
+        "battery": 100,
+        "power_outage_count": 9714,
+        "linkquality": 212
+    },
+    "0x00158d0003e7fff7": {
+        "voltage": 3002,
+        "battery": 100,
+        "power_outage_count": 2134,
+        "linkquality": 196
+    },
+    "0xe0798dfffec0fca4": {
+        "operation_mode": "command",
+        "battery": 86,
+        "voltage": 2900,
+        "linkquality": 200
+    },
+    "0x70b3d52b60033184": {
+        "state": "ON",
+        "power_outage_memory": "restore",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "current": 0,
+        "voltage": 235,
+        "energy": 0,
+        "linkquality": 128
+    },
+    "0xa4c1388acb02ee45": {
+        "state_l1": "OFF",
+        "power_on_behavior_l1": "off",
+        "switch_type": "toggle",
+        "state_l2": "OFF",
+        "state_l3": "OFF",
+        "linkquality": 128,
+        "indicator_mode": "off",
+        "power_on_behavior": "off"
+    },
+    "0xa4c138b8abe9ccad": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 76,
+        "countdown": 0
+    },
+    "0xa4c1385389470a4f": {
+        "switch_type": "toggle",
+        "linkquality": 140,
+        "state": "OFF",
+        "power_on_behavior": "on"
+    },
+    "0xa4c1381816320e5e": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 140
+    },
+    "0xa4c13884c96a4e0c": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 128
+    },
+    "0xa4c138f99ec848ab": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 200
+    },
+    "0xa4c1380f4f4eb6d3": {
+        "state": "OFF",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 196,
+        "countdown": 0
+    },
+    "0xa4c138c256cb56e0": {
+        "state": "ON",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 196,
+        "countdown": 0
+    },
+    "0xa4c13837f7293f7e": {
+        "illuminance_lux": 2000,
+        "state": "none",
+        "presence": false,
+        "distance": 0,
+        "move_sensitivity": 2,
+        "presence_sensitivity": 2,
+        "radar_range": 4.5,
+        "presence_timeout": 0,
+        "linkquality": 255
+    },
+    "0xa4c138e3411a1356": {
+        "battery": 23,
+        "voltage": 2600,
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 196
+    },
+    "0x00158d00056d515c": {
+        "occupancy": false,
+        "illuminance": 678,
+        "illuminance_lux": 678,
+        "linkquality": 208,
+        "voltage": 3065,
+        "battery": 100,
+        "device_temperature": 24,
+        "power_outage_count": 157
+    },
+    "0x00158d000566be58": {
+        "occupancy": false,
+        "illuminance": 1000,
+        "illuminance_lux": 1000,
+        "linkquality": 160,
+        "voltage": 3025,
+        "battery": 100,
+        "device_temperature": 24,
+        "power_outage_count": 8
+    },
+    "0xa4c13889b9aa204f": {
+        "battery": 100,
+        "voltage": 2900,
+        "occupancy": false,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 152,
+        "sensitivity": "high",
+        "keep_time": 30
+    },
+    "0xa4c138325bcb748f": {
+        "battery": 100,
+        "voltage": 3000,
+        "linkquality": 196
+    },
+    "0xa4c138a5b96044f9": {
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "battery": 1,
+        "voltage": 2500,
+        "linkquality": 200
+    },
+    "0xa4c13870196d4d21": {
+        "contact": false,
+        "tamper": false,
+        "battery_low": false,
+        "linkquality": 200
+    },
+    "0xa4c138e002b7885a": {
+        "state": "ON",
+        "power_on_behavior": "off",
+        "switch_type": "toggle",
+        "linkquality": 152,
+        "countdown": 0
+    },
+    "0xa4c1385bd4599f86": {
+        "contact": true,
+        "tamper": false,
+        "battery_low": false,
+        "battery": 23,
+        "voltage": 2600,
+        "linkquality": 56
+    },
+    "0x00158d00056d4f06": {
+        "occupancy": false,
+        "illuminance": 1000,
+        "illuminance_lux": 1000,
+        "linkquality": 152,
+        "voltage": 3035,
+        "battery": 100,
+        "device_temperature": 33,
+        "power_outage_count": 161
+    },
+    "0xa4c138e94629820d": {
+        "state": "none",
+        "presence": false,
+        "distance": -0.03,
+        "illuminance_lux": 132,
+        "radar_sensitivity": 0,
+        "presence_sensitivity": 0,
+        "detection_distance_min": 0,
+        "detection_distance_max": 4.5,
+        "keep_time": 0,
+        "linkquality": 132
+    },
+    "0xa4c1384b773e6a8c": {
+        "illuminance_lux": 92,
+        "distance": -0.03,
+        "state": "none",
+        "presence": false,
+        "radar_sensitivity": 0,
+        "presence_sensitivity": 0,
+        "detection_distance_min": 0,
+        "detection_distance_max": 4.5,
+        "keep_time": 0,
+        "linkquality": 160
+    },
+    "0xa4c1382cdd04aa7d": {
+        "distance": -0.03,
+        "illuminance_lux": 31,
+        "state": "none",
+        "presence": false,
+        "radar_sensitivity": 0,
+        "presence_sensitivity": 0,
+        "detection_distance_min": 0,
+        "detection_distance_max": 4.5,
+        "keep_time": 0,
+        "linkquality": 124
+    },
+    "0xa4c138dd442443f6": {
+        "state": "ON",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 184,
+        "countdown": 0
+    },
+    "0xa4c1385d1f270786": {
+        "state": "ON",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 180,
+        "countdown": 0
+    },
+    "0xa4c138331ca62564": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 212,
+        "countdown": 0
+    },
+    "0xa4c13876ff2fed87": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 196,
+        "countdown": 0
+    },
+    "0xa4c1386d607f50ae": {
+        "state": "OFF",
+        "power_on_behavior": "previous",
+        "switch_type": "toggle",
+        "linkquality": 236,
+        "countdown": 0
+    },
+    "0xa4c1383321f4e218": {
+        "state": "OFF",
+        "power_on_behavior": "previous",
+        "switch_type": "toggle",
+        "linkquality": 236,
+        "countdown": 0
+    },
+    "0x00124b002c3a19b3": {
+        "linkquality": 160,
+        "transmit_power": 20
+    },
+    "0x00124b002c3a468a": {
+        "linkquality": 200,
+        "transmit_power": 20
+    },
+    "0xa4c1381eb69d7989": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 212,
+        "countdown": 0
+    },
+    "0xa4c138ad28d90c5a": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 212,
+        "countdown": 0
+    },
+    "0xa4c138d062b10623": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 212,
+        "countdown": 0
+    },
+    "0xa4c138cb66d3ea31": {
+        "state": "OFF",
+        "power_on_behavior": "on",
+        "switch_type": "toggle",
+        "linkquality": 196,
+        "countdown": 0
+    },
+    "0xa4c1387043e67e04": {
+        "illuminance_lux": 401,
+        "state": "none",
+        "presence": false,
+        "distance": -0.03,
+        "radar_sensitivity": 0,
+        "presence_sensitivity": 0,
+        "detection_distance_min": 0.75,
+        "detection_distance_max": 6,
+        "keep_time": 5,
+        "linkquality": 204
+    },
+    "0xa4c13895b9c17214": {
+        "state": "none",
+        "presence": false,
+        "distance": -0.03,
+        "illuminance_lux": 172,
+        "radar_sensitivity": 0,
+        "presence_sensitivity": 0,
+        "detection_distance_min": 0,
+        "detection_distance_max": 4.5,
+        "keep_time": 0,
+        "linkquality": 200
+    }
+}

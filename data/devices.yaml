@@ -1,0 +1,327 @@
+'0x000474000084c6bb':
+  friendly_name: Medidor_Legrand
+  identity_effect:
+    color: red
+    effect: fixed
+'0xa4c138ec3dfeecc0':
+  friendly_name: Luz_Exterior_Trasera02
+  state_action: false
+'0xa4c1389b56a53a95':
+  friendly_name: Luz_Exterior_Trasera03
+  state_action: false
+'0xa4c138e8b56f6657':
+  friendly_name: Electrovalvulas01
+  state_action: false
+'0xa4c13872113e0037':
+  friendly_name: Electrovalvulas02
+  state_action: false
+'0xa4c13895d8725494':
+  friendly_name: Electrovalvulas03
+  state_action: false
+'0xa4c13877992dece0':
+  friendly_name: Electrovalvulas04
+  state_action: false
+'0xa4c138e828dc43c0':
+  friendly_name: Luz_Comedor01
+  state_action: false
+'0xa4c13848dee0df56':
+  friendly_name: Luz_Recibidor01
+  state_action: false
+'0xa4c13873191de13d':
+  friendly_name: Luz_Cocina01
+  state_action: false
+'0xa4c1388acb02ee45':
+  friendly_name: Luz_Habitacion03
+  state_action: false
+'0xa4c138b8abe9ccad':
+  friendly_name: Luz_Aseo01
+  state_action: false
+'0xa4c138c045df66a8':
+  friendly_name: Luz_Habitacion01
+  state_action: false
+'0xa4c138c9637593a2':
+  friendly_name: Luz_Comedor03
+  state_action: false
+'0x847127fffef505ef':
+  friendly_name: Temp_Comedor
+'0xa4c1387e99093064':
+  friendly_name: Temp_Hab03
+'0xa4c138b9862aae6b':
+  friendly_name: Sensor_Ventana_Hab03
+'0xa4c1385760bff91e':
+  friendly_name: Sensor_Ventana_Hab01
+'0xa4c138ba55ccb796':
+  friendly_name: Sensor_Ventana_Baño01
+'0xa4c13877ae416c24':
+  friendly_name: Sensor_Ventana_Hab02
+'0xa4c1388c663192fd':
+  friendly_name: Sensor_Ventana_Hab04
+'0xa4c138a5b96044f9':
+  friendly_name: Sensor_Ventana_Baño04
+'0xa4c1382e197e4588':
+  friendly_name: Sensor_Ventanal_Izq_Conedor01
+'0xa4c13870196d4d21':
+  friendly_name: Sensor_Ventana_Cocina
+'0xa4c13845bc702734':
+  friendly_name: Temp_Recibidor
+'0x00158d00058a859a':
+  friendly_name: Mov_Recibidor
+'0x00158d00058a7d79':
+  friendly_name: Mov_Ext_Entrada
+'0x00158d00056d52ad':
+  friendly_name: Mov_Ext_Com1
+'0x00158d00056a7a1e':
+  friendly_name: Mov_Ext_Com2
+'0x00158d00056d515c':
+  friendly_name: Mov_Ext_Cocina
+  occupancy_timeout: 90
+  illuminance_calibration: ''
+'0x00158d000566be58':
+  friendly_name: Mov_Ext_Hab2
+'0x00158d00056d4f06':
+  friendly_name: Mov_Ext_Hab4
+'0x00158d00056a7d53':
+  friendly_name: Mov_Ext_Hab3
+'0xa4c1386e742d7853':
+  friendly_name: Temp_Comedor_Chimenea
+'0xa4c138f4fbc1bdd4':
+  friendly_name: Temp_Hab01
+'0xa4c138a155d8b22f':
+  friendly_name: Temp_Hab02
+'0xa4c138bcc87f9735':
+  friendly_name: Temp_Hab04
+'0xa4c138d7966879ba':
+  friendly_name: Sensor_Puerta_Entrada
+'0xa4c1385bd4599f86':
+  friendly_name: Sensor_Ventanal_Izq_Conedor02
+'0xa4c1384c789dfb3a':
+  friendly_name: Sensor_Ventanal_Der_Conedor01
+'0xa4c138e3411a1356':
+  friendly_name: Sensor_Ventanal_Der_Conedor02
+'0x00158d0003e7ff31':
+  friendly_name: Boton_Porche01
+  legacy: false
+  hold_timeout: 3000
+  hold_timeout_expire: 5000
+'0x00158d0003e7fff7':
+  friendly_name: Boton_Porche02
+  legacy: false
+  hold_timeout: 3000
+  hold_timeout_expire: 5000
+'0xa4c1382e48444885':
+  friendly_name: Temp_Exterior_Del
+'0xa4c138819ff507a0':
+  friendly_name: Luz_Exterior_Entrada
+  state_action: false
+'0xa4c138c1a905519a':
+  friendly_name: Luz_Exterior_Del_Com
+  state_action: false
+'0xa4c13884c96a4e0c':
+  friendly_name: Luz_Exterior_Del_Hab
+  state_action: false
+'0xa4c1380f4f4eb6d3':
+  friendly_name: Luz_Exterior_Piscina01
+  state_action: false
+'0xa4c138593590d8d5':
+  friendly_name: Temp_Aseo
+'0xa4c138722c02449d':
+  friendly_name: Temp_Exterior_Tras
+'0x00158d0003636ae3':
+  friendly_name: Boton_Timbre
+  legacy: false
+  hold_timeout: 3000
+  hold_timeout_expire: 5000
+'0xa4c138c256cb56e0':
+  friendly_name: TC_Ext_Piscina
+  state_action: false
+'0xa4c1381355f5a553':
+  friendly_name: TC_Ext_Terraza01
+  state_action: false
+'0xa4c1380adc3fd6dc':
+  friendly_name: Dimer_Comedor02
+  state_action: false
+'0xa4c1386a92026776':
+  friendly_name: Dimer_Pasillo01
+  state_action: false
+'0xa4c138565cb79cc2':
+  friendly_name: Dimer_Pasillo02
+  state_action: false
+'0xa4c13823f99ebb5b':
+  friendly_name: Dimer_Pasillo03
+  state_action: false
+'0x00124b002a2e38b3':
+  friendly_name: TubesZB01
+'0x00124b002a2e3aed':
+  friendly_name: TubesZB02
+'0xe0798dfffec0fca4':
+  friendly_name: Boton_Habitacion01
+'0x00124b002a2f0f7f':
+  friendly_name: SonoffZB01
+'0x00124b002a9a57c6':
+  friendly_name: SonoffZB02
+'0xa4c1389cdab3f719':
+  friendly_name: Luz_Habitacion04
+  state_action: false
+'0xa4c138eb2e0eb695':
+  friendly_name: Luz_Baño01
+  state_action: false
+'0xa4c138ecb94b866e':
+  friendly_name: Luz_Habitacion02
+  state_action: false
+'0xa4c13871e590551e':
+  friendly_name: Luz_Baño04
+  state_action: false
+'0xa4c1384725c2ab0e':
+  friendly_name: Luz_Baño02
+  state_action: false
+'0xa4c138d0074782f0':
+  friendly_name: Luz_Cocina02
+  state_action: false
+'0xa4c138630d36b188':
+  friendly_name: Luz_Comedor02
+  state_action: false
+'0xa4c1384c8583e838':
+  friendly_name: Luz_Exterior_Trasera01
+  state_action: false
+'0xa4c1387f99dbf375':
+  friendly_name: Extractor_Baño2
+  state_action: false
+'0xa4c138dcd890b238':
+  friendly_name: Extractor_Baño4
+  state_action: false
+'0xa4c13872caf7d99e':
+  friendly_name: Extractor_Aseo
+  state_action: false
+'0xa4c13878588a9e61':
+  friendly_name: Extractor_Baño1
+  state_action: false
+'0xa4c138f99ec848ab':
+  friendly_name: TC_Hab03_L3
+  state_action: false
+'0xa4c1381816320e5e':
+  friendly_name: TC_Hab03_L2
+  state_action: false
+'0xa4c1385389470a4f':
+  friendly_name: TC_Hab03_L1
+  state_action: false
+'0x70b3d52b60033184':
+  friendly_name: ' Smartplug_Hab03'
+  state_action: false
+  power_precision: 0
+'0xa4c138325bcb748f':
+  friendly_name: 2_Buttons_Hab03
+'0xa4c138449a32e586':
+  friendly_name: TC_Termo_Buhardilla
+  power_precision: 3
+  state_action: false
+  current_precision: 3
+  voltage_precision: 3
+  energy_precision: 3
+'0xa4c13804ba593b8a':
+  friendly_name: MmWave_Pasillo
+'0xa4c138ec6926ae67':
+  friendly_name: TC_Baño04_L2
+  state_action: false
+'0xa4c138f7111d0a41':
+  friendly_name: TC_Baño04_L1
+  state_action: false
+'0xa4c138e002b7885a':
+  friendly_name: TC_Hab04_L2
+  state_action: false
+'0xa4c1388cfc82f72e':
+  friendly_name: TC_Hab04_L3
+  state_action: false
+'0xa4c1380711855ab2':
+  friendly_name: TC_Hab04_L1
+  state_action: false
+'0xa4c138e3ead22ee8':
+  friendly_name: TC_Hab04_L4
+  state_action: false
+'0xa4c13890abacd16d':
+  friendly_name: TC_Baño01_L1
+  state_action: false
+'0xa4c1389db3a6f8eb':
+  friendly_name: TC_Baño01_L2
+  state_action: false
+'0x70b3d52b60058b7e':
+  friendly_name: TC_Hab01_L2
+  state_action: false
+'0xa4c1389727944600':
+  friendly_name: TC_Hab01_L1
+  state_action: false
+'0x70b3d52b6005dcc4':
+  friendly_name: TC_Hab01_L3
+  state_action: false
+'0xa4c138c22c20e318':
+  friendly_name: TC_Hab02_L1
+  state_action: false
+'0x70b3d52b6005b220':
+  friendly_name: TC_Hab02_L2
+  state_action: false
+'0xa4c138e978397e7e':
+  friendly_name: TC_Hab02_L3
+  state_action: false
+'0x70b3d52b6006a663':
+  friendly_name: TC_Baño02_L2
+  state_action: false
+'0xa4c138e3fc4c23be':
+  friendly_name: TC_Baño02_L1
+  state_action: false
+'0xa4c1380d5e6b076d':
+  friendly_name: TC_Ext01_L1
+  state_action: false
+'0xa4c138e479ffa5f5':
+  friendly_name: MmWave_Hab02
+'0xa4c138455583ebe2':
+  friendly_name: MmWave_Baño02
+'0xa4c13848c3f307ca':
+  friendly_name: MmWave_Hab01
+'0x00124b002c3a382f':
+  friendly_name: SonoffZB05
+'0xa4c13809f79ff5d2':
+  friendly_name: Dimer_Comedor01
+  state_action: false
+'0x00124b002b485c51':
+  friendly_name: SonoffZB03
+'0xa4c13837f7293f7e':
+  friendly_name: MmWave_Recibidor
+'0xa4c13889b9aa204f':
+  friendly_name: '0xa4c13889b9aa204f'
+'0xa4c138e94629820d':
+  friendly_name: MmWave_Hab04
+'0xa4c1384b773e6a8c':
+  friendly_name: MmWave_Baño01
+'0xa4c1382cdd04aa7d':
+  friendly_name: MmWave_Baño04
+'0xa4c1385d1f270786':
+  friendly_name: TC_Recibidor_L2
+'0xa4c138dd442443f6':
+  friendly_name: TC_Recibidor_L1
+'0xa4c138331ca62564':
+  friendly_name: TC_Comedor_L5
+'0xa4c13876ff2fed87':
+  friendly_name: TC_Comedor_L4
+'0xa4c1386d607f50ae':
+  friendly_name: TC_Comedor_L6
+'0xa4c1383321f4e218':
+  friendly_name: TC_Comedor_L7
+'0x00124b002c3a19b3':
+  friendly_name: SonoffZB06
+'0x00124b002c3a468a':
+  friendly_name: SonoffZB04
+'0xa4c1381eb69d7989':
+  friendly_name: TC_Comedor_L1
+  state_action: false
+'0xa4c138ad28d90c5a':
+  friendly_name: TC_Comedor_L2
+  state_action: false
+'0xa4c138d062b10623':
+  friendly_name: TC_Comedor_L3
+  state_action: false
+'0xa4c138cb66d3ea31':
+  friendly_name: TC_Comedor_L8
+  state_action: false
+'0xa4c1387043e67e04':
+  friendly_name: MmWave_Cocina
+'0xa4c13895b9c17214':
+  friendly_name: MmWave_Aseo
